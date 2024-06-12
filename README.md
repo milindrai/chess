@@ -1,3 +1,6 @@
+![Screenshot 2024-05-26 154712](https://github.com/milindrai/chess/assets/112194284/19f93b26-87dd-430b-ac42-12356d2c2f73)
+
+
 ## Chess
 
 Building a platform where people can
